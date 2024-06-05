@@ -38,7 +38,7 @@ I addressed missing values for data integrity. I replaced Null values with zeros
 1. What is the total number of rows?
 
  QUERY                                   |        RESULT
-:--------------------------------------:|:-----------------------------------------------|
+:--------------------------------------:|:----------------------------------------------|
 ![](1.JPG)                       |         ![](1.1.JPG) 
 
 2. What is the start-date and end-date?
